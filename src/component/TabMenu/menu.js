@@ -72,6 +72,14 @@ const Menu = [
         price: "10₹",
         description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. '
     },
+    {
+        id: 9,
+        image: "../images/samosa.jpg",
+        name:"samaso",
+        category: "timepass",
+        price: "10₹",
+        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. '
+    }
 ];
 
 
